@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<quote>
-	<text>
-		This is a quote #1.
-	</text>
-	<author>
-		Me.
-	</author>
-</quote>
+<quotes>
+	<quote>
+		<text>
+			This is a quote #1.
+		</text>
+		<author>
+			Me.
+		</author>
+	</quote>
 
-<quote>
-	<text>
-		This is a quote #2.
-	</text>
-	<author>
-		Me.again.
-	</author>
-</quote>
+	<quote>
+		<text>
+			This is a quote #2.
+		</text>
+		<author>
+			Me.again.
+		</author>
+	</quote>
 
-<quote>
-	<text>
-		This is a quote #3.
-	</text>
-	<author>
-		Me.
-	</author>
-</quote>
+	<quote>
+		<text>
+			This is a quote #3.
+		</text>
+		<author>
+			Me.
+		</author>
+	</quote>
+</quotes>
